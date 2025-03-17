@@ -1,0 +1,19 @@
+﻿h1{
+    text-align:center;
+}
+
+.main{
+
+    display:flex;
+    justify-content: center;
+    gap:30px;
+    align-items:center;
+}
+#CMR{
+
+    width:180px;
+    height:40px;
+    border-radius : 5px;
+    border : none;
+    background-color:rgb(0 148 255);
+}
